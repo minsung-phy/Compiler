@@ -1478,7 +1478,7 @@ yyreduce:
     {
                 yyerror("Error in class definition, skipping.");
                 yyerrok; // 에러 복구
-                // $$ = $1;
+                (yyval.class_list) = NULL;
           ;}
     break;
 

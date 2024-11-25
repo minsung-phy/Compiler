@@ -1,0 +1,55 @@
+syntax error in line 5 at "~"
+Error in class definition, skipping. in line 5 (unexpected EOF)
+syntax error in line 6 at "y"
+Error in class definition, skipping. in line 6 (unexpected EOF)
+syntax error in line 7 at "z"
+Error in class definition, skipping. in line 7 (unexpected EOF)
+syntax error in line 8 at "}"
+Error in class definition, skipping. in line 8 (unexpected EOF)
+syntax error in line 10 at "+"
+Error in class definition, skipping. in line 10 (unexpected EOF)
+syntax error in line 11 at "y"
+Error in class definition, skipping. in line 11 (unexpected EOF)
+syntax error in line 12 at "foo"
+Error in class definition, skipping. in line 12 (unexpected EOF)
+syntax error in line 13 at "bar"
+Error in class definition, skipping. in line 13 (unexpected EOF)
+syntax error in line 14 at "}"
+Error in class definition, skipping. in line 14 (unexpected EOF)
+syntax error in line 18 at "@"
+Error in class definition, skipping. in line 18 (unexpected EOF)
+syntax error in line 19 at "dummy"
+Error in class definition, skipping. in line 19 (unexpected EOF)
+syntax error in line 20 at "foo"
+Error in class definition, skipping. in line 20 (unexpected EOF)
+syntax error in line 21 at "bar"
+Error in class definition, skipping. in line 21 (unexpected EOF)
+syntax error in line 22 at "}"
+Error in class definition, skipping. in line 23 (unexpected EOF)
+syntax error in line 24 at "}"
+Error in class definition, skipping. in line 24 (unexpected EOF)
+syntax error in line 29 at "<"
+Error in class definition, skipping. in line 30 (unexpected EOF)
+syntax error in line 31 at "z"
+Error in class definition, skipping. in line 31 (unexpected EOF)
+syntax error in line 32 at "}"
+Error in class definition, skipping. in line 32 (unexpected EOF)
+syntax error in line 33 at "}"
+Error in class definition, skipping. in line 34 (unexpected EOF)
+syntax error in line 35 at "}"
+Error in class definition, skipping. in line 35 (unexpected EOF)
+syntax error in line 38 at ","
+Error in class definition, skipping. in line 39 (unexpected EOF)
+syntax error in line 40 at "}"
+Error in class definition, skipping. in line 40 (unexpected EOF)
+syntax error in line 43 at "+"
+Error in class definition, skipping. in line 44 (unexpected EOF)
+syntax error in line 45 at "y"
+Error in class definition, skipping. in line 45 (unexpected EOF)
+syntax error in line 46 at "z"
+Error in class definition, skipping. in line 46 (unexpected EOF)
+syntax error in line 47 at "esac"
+Error in class definition, skipping. in line 48 (unexpected EOF)
+syntax error in line 49 at "}"
+Error in class definition, skipping. in line 49 (unexpected EOF)
+54 error(s) found
