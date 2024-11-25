@@ -1,0 +1,31 @@
+syntax error in line 16 at "="
+Error in class definition, skipping. in line 26 (unexpected EOF)
+syntax error in line 26 at "0"
+Error in class definition, skipping. in line 26 (unexpected EOF)
+syntax error in line 26 at "}"
+Error in class definition, skipping. in line 28 (unexpected EOF)
+syntax error in line 33 at "i2c"
+Error in class definition, skipping. in line 44 (unexpected EOF)
+syntax error in line 44 at """"
+Error in class definition, skipping. in line 44 (unexpected EOF)
+syntax error in line 44 at "}"
+Error in class definition, skipping. in line 46 (unexpected EOF)
+syntax error in line 56 at "a2i"
+Error in class definition, skipping. in line 62 (unexpected EOF)
+syntax error in line 68 at "a2i_aux"
+Error in class definition, skipping. in line 75 (unexpected EOF)
+syntax error in line 76 at "i"
+Error in class definition, skipping. in line 76 (unexpected EOF)
+syntax error in line 77 at "}"
+Error in class definition, skipping. in line 80 (unexpected EOF)
+syntax error in line 81 at "int"
+Error in class definition, skipping. in line 81 (unexpected EOF)
+syntax error in line 82 at "}"
+Error in class definition, skipping. in line 84 (unexpected EOF)
+syntax error in line 90 at "i2a"
+Error in class definition, skipping. in line 95 (unexpected EOF)
+syntax error in line 100 at "i2a_aux"
+Error in class definition, skipping. in line 106 (unexpected EOF)
+syntax error in line 108 at "}"
+Error in class definition, skipping. in line 108 (unexpected EOF)
+30 error(s) found

@@ -1,0 +1,61 @@
+syntax error in line 29 at ";"
+Error in class definition, skipping. in line 29 (unexpected EOF)
+syntax error in line 35 at "head"
+Error in class definition, skipping. in line 35 (unexpected EOF)
+syntax error in line 35 at "0"
+Error in class definition, skipping. in line 35 (unexpected EOF)
+syntax error in line 35 at "}"
+Error in class definition, skipping. in line 35 (unexpected EOF)
+syntax error in line 40 at "tail"
+Error in class definition, skipping. in line 40 (unexpected EOF)
+syntax error in line 40 at "self"
+Error in class definition, skipping. in line 40 (unexpected EOF)
+syntax error in line 40 at "}"
+Error in class definition, skipping. in line 40 (unexpected EOF)
+syntax error in line 49 at "cons"
+Error in class definition, skipping. in line 51 (unexpected EOF)
+syntax error in line 53 at "}"
+Error in class definition, skipping. in line 53 (unexpected EOF)
+syntax error in line 72 at ";"
+Error in class definition, skipping. in line 72 (unexpected EOF)
+syntax error in line 74 at "cdr"
+Error in class definition, skipping. in line 74 (unexpected EOF)
+syntax error in line 76 at "isNil"
+Error in class definition, skipping. in line 76 (unexpected EOF)
+syntax error in line 78 at "head"
+Error in class definition, skipping. in line 78 (unexpected EOF)
+syntax error in line 80 at "tail"
+Error in class definition, skipping. in line 80 (unexpected EOF)
+syntax error in line 82 at "init"
+Error in class definition, skipping. in line 84 (unexpected EOF)
+syntax error in line 85 at "cdr"
+Error in class definition, skipping. in line 85 (unexpected EOF)
+syntax error in line 86 at "self"
+Error in class definition, skipping. in line 86 (unexpected EOF)
+syntax error in line 87 at "}"
+Error in class definition, skipping. in line 88 (unexpected EOF)
+syntax error in line 90 at "}"
+Error in class definition, skipping. in line 90 (unexpected EOF)
+syntax error in line 102 at ";"
+Error in class definition, skipping. in line 102 (unexpected EOF)
+syntax error in line 107 at "print_list"
+Error in class definition, skipping. in line 110 (unexpected EOF)
+syntax error in line 111 at "out_string"
+Error in class definition, skipping. in line 111 (unexpected EOF)
+syntax error in line 112 at "print_list"
+Error in class definition, skipping. in line 112 (unexpected EOF)
+syntax error in line 113 at "}"
+Error in class definition, skipping. in line 115 (unexpected EOF)
+syntax error in line 126 at "main"
+Error in class definition, skipping. in line 128 (unexpected EOF)
+syntax error in line 129 at "while"
+Error in class definition, skipping. in line 131 (unexpected EOF)
+syntax error in line 132 at "mylist"
+Error in class definition, skipping. in line 132 (unexpected EOF)
+syntax error in line 133 at "}"
+Error in class definition, skipping. in line 134 (unexpected EOF)
+syntax error in line 135 at "}"
+Error in class definition, skipping. in line 136 (unexpected EOF)
+syntax error in line 138 at "}"
+Error in class definition, skipping. in line 138 (unexpected EOF)
+60 error(s) found

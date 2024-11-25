@@ -1,0 +1,15 @@
+syntax error in line 3 at "."
+Error in class definition, skipping. in line 11 (unexpected EOF)
+syntax error in line 13 at "i"
+Error in class definition, skipping. in line 13 (unexpected EOF)
+syntax error in line 15 at "main"
+Error in class definition, skipping. in line 17 (unexpected EOF)
+syntax error in line 18 at "out_string"
+Error in class definition, skipping. in line 18 (unexpected EOF)
+syntax error in line 19 at "if"
+Error in class definition, skipping. in line 22 (unexpected EOF)
+syntax error in line 23 at "}"
+Error in class definition, skipping. in line 24 (unexpected EOF)
+syntax error in line 25 at "}"
+Error in class definition, skipping. in line 25 (unexpected EOF)
+14 error(s) found

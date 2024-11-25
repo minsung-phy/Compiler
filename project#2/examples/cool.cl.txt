@@ -1,0 +1,9 @@
+syntax error in line 4 at "("
+Error in class definition, skipping. in line 5 (unexpected EOF)
+syntax error in line 6 at "out_string"
+Error in class definition, skipping. in line 6 (unexpected EOF)
+syntax error in line 7 at "}"
+Error in class definition, skipping. in line 8 (unexpected EOF)
+syntax error in line 9 at "}"
+Error in class definition, skipping. in line 9 (unexpected EOF)
+8 error(s) found

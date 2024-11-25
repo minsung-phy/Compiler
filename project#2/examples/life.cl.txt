@@ -1,0 +1,237 @@
+syntax error in line 47 at ";"
+Error in class definition, skipping. in line 47 (unexpected EOF)
+syntax error in line 48 at "columns"
+Error in class definition, skipping. in line 48 (unexpected EOF)
+syntax error in line 49 at "board_size"
+Error in class definition, skipping. in line 49 (unexpected EOF)
+syntax error in line 51 at "size_of_board"
+Error in class definition, skipping. in line 53 (unexpected EOF)
+syntax error in line 55 at "board_init"
+Error in class definition, skipping. in line 60 (unexpected EOF)
+syntax error in line 61 at "columns"
+Error in class definition, skipping. in line 61 (unexpected EOF)
+syntax error in line 62 at "board_size"
+Error in class definition, skipping. in line 62 (unexpected EOF)
+syntax error in line 63 at "}"
+Error in class definition, skipping. in line 66 (unexpected EOF)
+syntax error in line 67 at "columns"
+Error in class definition, skipping. in line 67 (unexpected EOF)
+syntax error in line 68 at "board_size"
+Error in class definition, skipping. in line 68 (unexpected EOF)
+syntax error in line 69 at "}"
+Error in class definition, skipping. in line 72 (unexpected EOF)
+syntax error in line 73 at "columns"
+Error in class definition, skipping. in line 73 (unexpected EOF)
+syntax error in line 74 at "board_size"
+Error in class definition, skipping. in line 74 (unexpected EOF)
+syntax error in line 75 at "}"
+Error in class definition, skipping. in line 78 (unexpected EOF)
+syntax error in line 79 at "columns"
+Error in class definition, skipping. in line 79 (unexpected EOF)
+syntax error in line 80 at "board_size"
+Error in class definition, skipping. in line 80 (unexpected EOF)
+syntax error in line 81 at "}"
+Error in class definition, skipping. in line 84 (unexpected EOF)
+syntax error in line 85 at "columns"
+Error in class definition, skipping. in line 85 (unexpected EOF)
+syntax error in line 86 at "board_size"
+Error in class definition, skipping. in line 86 (unexpected EOF)
+syntax error in line 87 at "}"
+Error in class definition, skipping. in line 90 (unexpected EOF)
+syntax error in line 91 at "columns"
+Error in class definition, skipping. in line 91 (unexpected EOF)
+syntax error in line 92 at "board_size"
+Error in class definition, skipping. in line 92 (unexpected EOF)
+syntax error in line 93 at "}"
+Error in class definition, skipping. in line 96 (unexpected EOF)
+syntax error in line 97 at "columns"
+Error in class definition, skipping. in line 97 (unexpected EOF)
+syntax error in line 98 at "board_size"
+Error in class definition, skipping. in line 98 (unexpected EOF)
+syntax error in line 99 at "}"
+Error in class definition, skipping. in line 100 (unexpected EOF)
+syntax error in line 101 at "self"
+Error in class definition, skipping. in line 101 (unexpected EOF)
+syntax error in line 102 at "}"
+Error in class definition, skipping. in line 104 (unexpected EOF)
+syntax error in line 106 at "}"
+Error in class definition, skipping. in line 106 (unexpected EOF)
+syntax error in line 111 at ";"
+Error in class definition, skipping. in line 111 (unexpected EOF)
+syntax error in line 113 at "init"
+Error in class definition, skipping. in line 115 (unexpected EOF)
+syntax error in line 116 at "board_init"
+Error in class definition, skipping. in line 116 (unexpected EOF)
+syntax error in line 117 at "self"
+Error in class definition, skipping. in line 117 (unexpected EOF)
+syntax error in line 118 at "}"
+Error in class definition, skipping. in line 119 (unexpected EOF)
+syntax error in line 124 at "print"
+Error in class definition, skipping. in line 129 (unexpected EOF)
+syntax error in line 130 at "while"
+Error in class definition, skipping. in line 132 (unexpected EOF)
+syntax error in line 133 at "out_string"
+Error in class definition, skipping. in line 133 (unexpected EOF)
+syntax error in line 134 at "i"
+Error in class definition, skipping. in line 134 (unexpected EOF)
+syntax error in line 135 at "}"
+Error in class definition, skipping. in line 136 (unexpected EOF)
+syntax error in line 137 at "out_string"
+Error in class definition, skipping. in line 137 (unexpected EOF)
+syntax error in line 138 at "self"
+Error in class definition, skipping. in line 138 (unexpected EOF)
+syntax error in line 139 at "}"
+Error in class definition, skipping. in line 141 (unexpected EOF)
+syntax error in line 143 at "num_cells"
+Error in class definition, skipping. in line 145 (unexpected EOF)
+syntax error in line 147 at "cell"
+Error in class definition, skipping. in line 153 (unexpected EOF)
+syntax error in line 155 at "north"
+Error in class definition, skipping. in line 161 (unexpected EOF)
+syntax error in line 163 at "south"
+Error in class definition, skipping. in line 169 (unexpected EOF)
+syntax error in line 171 at "east"
+Error in class definition, skipping. in line 177 (unexpected EOF)
+syntax error in line 179 at "west"
+Error in class definition, skipping. in line 188 (unexpected EOF)
+syntax error in line 190 at "northwest"
+Error in class definition, skipping. in line 198 (unexpected EOF)
+syntax error in line 200 at "northeast"
+Error in class definition, skipping. in line 208 (unexpected EOF)
+syntax error in line 210 at "southeast"
+Error in class definition, skipping. in line 218 (unexpected EOF)
+syntax error in line 220 at "southwest"
+Error in class definition, skipping. in line 228 (unexpected EOF)
+syntax error in line 230 at "neighbors"
+Error in class definition, skipping. in line 239 (unexpected EOF)
+syntax error in line 240 at "}"
+Error in class definition, skipping. in line 241 (unexpected EOF)
+syntax error in line 247 at "cell_at_next_evolution"
+Error in class definition, skipping. in line 261 (unexpected EOF)
+syntax error in line 264 at "evolve"
+Error in class definition, skipping. in line 271 (unexpected EOF)
+syntax error in line 272 at "position"
+Error in class definition, skipping. in line 272 (unexpected EOF)
+syntax error in line 273 at "}"
+Error in class definition, skipping. in line 274 (unexpected EOF)
+syntax error in line 275 at "population_map"
+Error in class definition, skipping. in line 275 (unexpected EOF)
+syntax error in line 276 at "self"
+Error in class definition, skipping. in line 276 (unexpected EOF)
+syntax error in line 277 at "}"
+Error in class definition, skipping. in line 279 (unexpected EOF)
+syntax error in line 284 at "option"
+Error in class definition, skipping. in line 288 (unexpected EOF)
+syntax error in line 289 at "out_string"
+Error in class definition, skipping. in line 289 (unexpected EOF)
+syntax error in line 290 at "out_string"
+Error in class definition, skipping. in line 290 (unexpected EOF)
+syntax error in line 291 at "out_string"
+Error in class definition, skipping. in line 291 (unexpected EOF)
+syntax error in line 292 at "out_string"
+Error in class definition, skipping. in line 292 (unexpected EOF)
+syntax error in line 293 at "out_string"
+Error in class definition, skipping. in line 293 (unexpected EOF)
+syntax error in line 294 at "out_string"
+Error in class definition, skipping. in line 294 (unexpected EOF)
+syntax error in line 295 at "out_string"
+Error in class definition, skipping. in line 295 (unexpected EOF)
+syntax error in line 296 at "out_string"
+Error in class definition, skipping. in line 296 (unexpected EOF)
+syntax error in line 297 at "out_string"
+Error in class definition, skipping. in line 297 (unexpected EOF)
+syntax error in line 298 at "out_string"
+Error in class definition, skipping. in line 298 (unexpected EOF)
+syntax error in line 299 at "out_string"
+Error in class definition, skipping. in line 299 (unexpected EOF)
+syntax error in line 300 at "out_string"
+Error in class definition, skipping. in line 300 (unexpected EOF)
+syntax error in line 301 at "out_string"
+Error in class definition, skipping. in line 301 (unexpected EOF)
+syntax error in line 302 at "out_string"
+Error in class definition, skipping. in line 302 (unexpected EOF)
+syntax error in line 303 at "out_string"
+Error in class definition, skipping. in line 303 (unexpected EOF)
+syntax error in line 304 at "out_string"
+Error in class definition, skipping. in line 304 (unexpected EOF)
+syntax error in line 305 at "out_string"
+Error in class definition, skipping. in line 305 (unexpected EOF)
+syntax error in line 306 at "out_string"
+Error in class definition, skipping. in line 306 (unexpected EOF)
+syntax error in line 307 at "out_string"
+Error in class definition, skipping. in line 307 (unexpected EOF)
+syntax error in line 308 at "out_string"
+Error in class definition, skipping. in line 308 (unexpected EOF)
+syntax error in line 309 at "out_string"
+Error in class definition, skipping. in line 309 (unexpected EOF)
+syntax error in line 310 at "out_string"
+Error in class definition, skipping. in line 310 (unexpected EOF)
+syntax error in line 311 at "num"
+Error in class definition, skipping. in line 311 (unexpected EOF)
+syntax error in line 312 at "out_string"
+Error in class definition, skipping. in line 312 (unexpected EOF)
+syntax error in line 313 at "if"
+Error in class definition, skipping. in line 357 (unexpected EOF)
+syntax error in line 358 at "}"
+Error in class definition, skipping. in line 359 (unexpected EOF)
+syntax error in line 360 at "}"
+Error in class definition, skipping. in line 361 (unexpected EOF)
+syntax error in line 366 at "prompt"
+Error in class definition, skipping. in line 370 (unexpected EOF)
+syntax error in line 371 at "out_string"
+Error in class definition, skipping. in line 371 (unexpected EOF)
+syntax error in line 372 at "ans"
+Error in class definition, skipping. in line 372 (unexpected EOF)
+syntax error in line 373 at "out_string"
+Error in class definition, skipping. in line 373 (unexpected EOF)
+syntax error in line 374 at "if"
+Error in class definition, skipping. in line 378 (unexpected EOF)
+syntax error in line 379 at "}"
+Error in class definition, skipping. in line 380 (unexpected EOF)
+syntax error in line 381 at "}"
+Error in class definition, skipping. in line 382 (unexpected EOF)
+syntax error in line 385 at "prompt2"
+Error in class definition, skipping. in line 388 (unexpected EOF)
+syntax error in line 389 at "out_string"
+Error in class definition, skipping. in line 389 (unexpected EOF)
+syntax error in line 390 at "out_string"
+Error in class definition, skipping. in line 390 (unexpected EOF)
+syntax error in line 391 at "ans"
+Error in class definition, skipping. in line 391 (unexpected EOF)
+syntax error in line 392 at "if"
+Error in class definition, skipping. in line 396 (unexpected EOF)
+syntax error in line 397 at "}"
+Error in class definition, skipping. in line 399 (unexpected EOF)
+syntax error in line 402 at "}"
+Error in class definition, skipping. in line 402 (unexpected EOF)
+syntax error in line 405 at ";"
+Error in class definition, skipping. in line 405 (unexpected EOF)
+syntax error in line 407 at "main"
+Error in class definition, skipping. in line 412 (unexpected EOF)
+syntax error in line 413 at "out_string"
+Error in class definition, skipping. in line 413 (unexpected EOF)
+syntax error in line 414 at "while"
+Error in class definition, skipping. in line 416 (unexpected EOF)
+syntax error in line 417 at "choice"
+Error in class definition, skipping. in line 417 (unexpected EOF)
+syntax error in line 418 at "cells"
+Error in class definition, skipping. in line 418 (unexpected EOF)
+syntax error in line 419 at "cells"
+Error in class definition, skipping. in line 419 (unexpected EOF)
+syntax error in line 420 at "while"
+Error in class definition, skipping. in line 423 (unexpected EOF)
+syntax error in line 424 at "cells"
+Error in class definition, skipping. in line 424 (unexpected EOF)
+syntax error in line 425 at "}"
+Error in class definition, skipping. in line 429 (unexpected EOF)
+syntax error in line 430 at "}"
+Error in class definition, skipping. in line 431 (unexpected EOF)
+syntax error in line 432 at "self"
+Error in class definition, skipping. in line 432 (unexpected EOF)
+syntax error in line 433 at "}"
+Error in class definition, skipping. in line 433 (unexpected EOF)
+syntax error in line 433 at "}"
+Error in class definition, skipping. in line 434 (unexpected EOF)
+syntax error in line 435 at "}"
+Error in class definition, skipping. in line 435 (unexpected EOF)
+236 error(s) found

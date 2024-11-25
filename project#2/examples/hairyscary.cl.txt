@@ -1,0 +1,65 @@
+syntax error in line 8 at ";"
+Error in class definition, skipping. in line 8 (unexpected EOF)
+syntax error in line 10 at "b"
+Error in class definition, skipping. in line 10 (unexpected EOF)
+syntax error in line 12 at "doh"
+Error in class definition, skipping. in line 12 (unexpected EOF)
+syntax error in line 12 at "i"
+Error in class definition, skipping. in line 12 (unexpected EOF)
+syntax error in line 12 at "}"
+Error in class definition, skipping. in line 12 (unexpected EOF)
+syntax error in line 14 at "}"
+Error in class definition, skipping. in line 14 (unexpected EOF)
+syntax error in line 18 at "("
+Error in class definition, skipping. in line 18 (unexpected EOF)
+syntax error in line 20 at "d"
+Error in class definition, skipping. in line 20 (unexpected EOF)
+syntax error in line 21 at "}"
+Error in class definition, skipping. in line 21 (unexpected EOF)
+syntax error in line 29 at ";"
+Error in class definition, skipping. in line 29 (unexpected EOF)
+syntax error in line 31 at "f"
+Error in class definition, skipping. in line 31 (unexpected EOF)
+syntax error in line 33 at "}"
+Error in class definition, skipping. in line 33 (unexpected EOF)
+syntax error in line 37 at ";"
+Error in class definition, skipping. in line 37 (unexpected EOF)
+syntax error in line 39 at "g"
+Error in class definition, skipping. in line 40 (unexpected EOF)
+syntax error in line 41 at "n"
+Error in class definition, skipping. in line 41 (unexpected EOF)
+syntax error in line 42 at "n"
+Error in class definition, skipping. in line 42 (unexpected EOF)
+syntax error in line 43 at "n"
+Error in class definition, skipping. in line 43 (unexpected EOF)
+syntax error in line 44 at "esac"
+Error in class definition, skipping. in line 44 (unexpected EOF)
+syntax error in line 46 at "i"
+Error in class definition, skipping. in line 46 (unexpected EOF)
+syntax error in line 48 at "printh"
+Error in class definition, skipping. in line 48 (unexpected EOF)
+syntax error in line 48 at "0"
+Error in class definition, skipping. in line 48 (unexpected EOF)
+syntax error in line 48 at "}"
+Error in class definition, skipping. in line 48 (unexpected EOF)
+syntax error in line 50 at "doh"
+Error in class definition, skipping. in line 50 (unexpected EOF)
+syntax error in line 50 at "i"
+Error in class definition, skipping. in line 50 (unexpected EOF)
+syntax error in line 50 at "}"
+Error in class definition, skipping. in line 50 (unexpected EOF)
+syntax error in line 51 at "}"
+Error in class definition, skipping. in line 51 (unexpected EOF)
+syntax error in line 55 at ";"
+Error in class definition, skipping. in line 55 (unexpected EOF)
+syntax error in line 56 at "b"
+Error in class definition, skipping. in line 56 (unexpected EOF)
+syntax error in line 57 at "c"
+Error in class definition, skipping. in line 57 (unexpected EOF)
+syntax error in line 58 at "d"
+Error in class definition, skipping. in line 58 (unexpected EOF)
+syntax error in line 60 at "main"
+Error in class definition, skipping. in line 60 (unexpected EOF)
+syntax error in line 62 at "}"
+Error in class definition, skipping. in line 62 (unexpected EOF)
+64 error(s) found

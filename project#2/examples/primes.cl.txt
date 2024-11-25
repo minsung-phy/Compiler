@@ -1,0 +1,35 @@
+syntax error in line 31 at ";"
+Error in class definition, skipping. in line 31 (unexpected EOF)
+syntax error in line 33 at "out"
+Error in class definition, skipping. in line 35 (unexpected EOF)
+syntax error in line 36 at "2"
+Error in class definition, skipping. in line 36 (unexpected EOF)
+syntax error in line 37 at "}"
+Error in class definition, skipping. in line 37 (unexpected EOF)
+syntax error in line 39 at "testee"
+Error in class definition, skipping. in line 39 (unexpected EOF)
+syntax error in line 41 at "divisor"
+Error in class definition, skipping. in line 41 (unexpected EOF)
+syntax error in line 43 at "stop"
+Error in class definition, skipping. in line 43 (unexpected EOF)
+syntax error in line 45 at "m"
+Error in class definition, skipping. in line 49 (unexpected EOF)
+syntax error in line 50 at "divisor"
+Error in class definition, skipping. in line 50 (unexpected EOF)
+syntax error in line 52 at "while"
+Error in class definition, skipping. in line 61 (unexpected EOF)
+syntax error in line 63 at "if"
+Error in class definition, skipping. in line 66 (unexpected EOF)
+syntax error in line 67 at "out_int"
+Error in class definition, skipping. in line 67 (unexpected EOF)
+syntax error in line 68 at "out_string"
+Error in class definition, skipping. in line 68 (unexpected EOF)
+syntax error in line 69 at "}"
+Error in class definition, skipping. in line 72 (unexpected EOF)
+syntax error in line 74 at "if"
+Error in class definition, skipping. in line 78 (unexpected EOF)
+syntax error in line 80 at "}"
+Error in class definition, skipping. in line 81 (unexpected EOF)
+syntax error in line 83 at "}"
+Error in class definition, skipping. in line 83 (unexpected EOF)
+34 error(s) found

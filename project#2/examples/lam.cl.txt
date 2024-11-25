@@ -1,0 +1,469 @@
+syntax error in line 22 at ";"
+Error in class definition, skipping. in line 22 (unexpected EOF)
+syntax error in line 23 at "head"
+Error in class definition, skipping. in line 23 (unexpected EOF)
+syntax error in line 23 at "new"
+Error in class definition, skipping. in line 23 (unexpected EOF)
+syntax error in line 23 at "}"
+Error in class definition, skipping. in line 23 (unexpected EOF)
+syntax error in line 24 at "tail"
+Error in class definition, skipping. in line 24 (unexpected EOF)
+syntax error in line 24 at "new"
+Error in class definition, skipping. in line 24 (unexpected EOF)
+syntax error in line 24 at "}"
+Error in class definition, skipping. in line 24 (unexpected EOF)
+syntax error in line 25 at "add"
+Error in class definition, skipping. in line 25 (unexpected EOF)
+syntax error in line 26 at "print"
+Error in class definition, skipping. in line 26 (unexpected EOF)
+syntax error in line 27 at "}"
+Error in class definition, skipping. in line 27 (unexpected EOF)
+syntax error in line 30 at ";"
+Error in class definition, skipping. in line 30 (unexpected EOF)
+syntax error in line 31 at "rest"
+Error in class definition, skipping. in line 31 (unexpected EOF)
+syntax error in line 32 at "isNil"
+Error in class definition, skipping. in line 32 (unexpected EOF)
+syntax error in line 33 at "head"
+Error in class definition, skipping. in line 33 (unexpected EOF)
+syntax error in line 34 at "tail"
+Error in class definition, skipping. in line 34 (unexpected EOF)
+syntax error in line 35 at "init"
+Error in class definition, skipping. in line 35 (unexpected EOF)
+syntax error in line 35 at "rest"
+Error in class definition, skipping. in line 35 (unexpected EOF)
+syntax error in line 35 at "self"
+Error in class definition, skipping. in line 35 (unexpected EOF)
+syntax error in line 35 at "}"
+Error in class definition, skipping. in line 35 (unexpected EOF)
+syntax error in line 36 at "print"
+Error in class definition, skipping. in line 36 (unexpected EOF)
+syntax error in line 36 at "out_string"
+Error in class definition, skipping. in line 36 (unexpected EOF)
+syntax error in line 37 at "rest"
+Error in class definition, skipping. in line 37 (unexpected EOF)
+syntax error in line 37 at "self"
+Error in class definition, skipping. in line 37 (unexpected EOF)
+syntax error in line 37 at "}"
+Error in class definition, skipping. in line 37 (unexpected EOF)
+syntax error in line 38 at "}"
+Error in class definition, skipping. in line 38 (unexpected EOF)
+syntax error in line 45 at ";"
+Error in class definition, skipping. in line 45 (unexpected EOF)
+syntax error in line 46 at "headE"
+Error in class definition, skipping. in line 46 (unexpected EOF)
+syntax error in line 46 at "new"
+Error in class definition, skipping. in line 46 (unexpected EOF)
+syntax error in line 46 at "}"
+Error in class definition, skipping. in line 46 (unexpected EOF)
+syntax error in line 47 at "headC"
+Error in class definition, skipping. in line 47 (unexpected EOF)
+syntax error in line 47 at "new"
+Error in class definition, skipping. in line 47 (unexpected EOF)
+syntax error in line 47 at "}"
+Error in class definition, skipping. in line 47 (unexpected EOF)
+syntax error in line 48 at "headN"
+Error in class definition, skipping. in line 48 (unexpected EOF)
+syntax error in line 48 at "0"
+Error in class definition, skipping. in line 48 (unexpected EOF)
+syntax error in line 48 at "}"
+Error in class definition, skipping. in line 48 (unexpected EOF)
+syntax error in line 49 at "tail"
+Error in class definition, skipping. in line 49 (unexpected EOF)
+syntax error in line 49 at "new"
+Error in class definition, skipping. in line 49 (unexpected EOF)
+syntax error in line 49 at "}"
+Error in class definition, skipping. in line 49 (unexpected EOF)
+syntax error in line 50 at "add"
+Error in class definition, skipping. in line 52 (unexpected EOF)
+syntax error in line 53 at "}"
+Error in class definition, skipping. in line 53 (unexpected EOF)
+syntax error in line 56 at ";"
+Error in class definition, skipping. in line 56 (unexpected EOF)
+syntax error in line 57 at "num"
+Error in class definition, skipping. in line 57 (unexpected EOF)
+syntax error in line 58 at "env"
+Error in class definition, skipping. in line 58 (unexpected EOF)
+syntax error in line 59 at "rest"
+Error in class definition, skipping. in line 59 (unexpected EOF)
+syntax error in line 60 at "isNil"
+Error in class definition, skipping. in line 60 (unexpected EOF)
+syntax error in line 61 at "headE"
+Error in class definition, skipping. in line 61 (unexpected EOF)
+syntax error in line 62 at "headC"
+Error in class definition, skipping. in line 62 (unexpected EOF)
+syntax error in line 63 at "headN"
+Error in class definition, skipping. in line 63 (unexpected EOF)
+syntax error in line 64 at "tail"
+Error in class definition, skipping. in line 64 (unexpected EOF)
+syntax error in line 65 at "init"
+Error in class definition, skipping. in line 67 (unexpected EOF)
+syntax error in line 68 at "lam"
+Error in class definition, skipping. in line 68 (unexpected EOF)
+syntax error in line 69 at "num"
+Error in class definition, skipping. in line 69 (unexpected EOF)
+syntax error in line 70 at "rest"
+Error in class definition, skipping. in line 70 (unexpected EOF)
+syntax error in line 71 at "self"
+Error in class definition, skipping. in line 71 (unexpected EOF)
+syntax error in line 72 at "}"
+Error in class definition, skipping. in line 73 (unexpected EOF)
+syntax error in line 74 at "}"
+Error in class definition, skipping. in line 74 (unexpected EOF)
+syntax error in line 77 at ";"
+Error in class definition, skipping. in line 77 (unexpected EOF)
+syntax error in line 78 at "l"
+Error in class definition, skipping. in line 78 (unexpected EOF)
+syntax error in line 79 at "isNil"
+Error in class definition, skipping. in line 79 (unexpected EOF)
+syntax error in line 80 at "headE"
+Error in class definition, skipping. in line 80 (unexpected EOF)
+syntax error in line 81 at "headC"
+Error in class definition, skipping. in line 81 (unexpected EOF)
+syntax error in line 82 at "headN"
+Error in class definition, skipping. in line 82 (unexpected EOF)
+syntax error in line 83 at "reset"
+Error in class definition, skipping. in line 85 (unexpected EOF)
+syntax error in line 86 at "l"
+Error in class definition, skipping. in line 86 (unexpected EOF)
+syntax error in line 87 at "self"
+Error in class definition, skipping. in line 87 (unexpected EOF)
+syntax error in line 88 at "}"
+Error in class definition, skipping. in line 89 (unexpected EOF)
+syntax error in line 90 at "add"
+Error in class definition, skipping. in line 92 (unexpected EOF)
+syntax error in line 93 at "nextNum"
+Error in class definition, skipping. in line 93 (unexpected EOF)
+syntax error in line 94 at "nextNum"
+Error in class definition, skipping. in line 94 (unexpected EOF)
+syntax error in line 95 at "}"
+Error in class definition, skipping. in line 96 (unexpected EOF)
+syntax error in line 97 at "removeHead"
+Error in class definition, skipping. in line 99 (unexpected EOF)
+syntax error in line 100 at "self"
+Error in class definition, skipping. in line 100 (unexpected EOF)
+syntax error in line 101 at "}"
+Error in class definition, skipping. in line 102 (unexpected EOF)
+syntax error in line 103 at "}"
+Error in class definition, skipping. in line 103 (unexpected EOF)
+syntax error in line 116 at "("
+Error in class definition, skipping. in line 116 (unexpected EOF)
+syntax error in line 117 at "abort"
+Error in class definition, skipping. in line 117 (unexpected EOF)
+syntax error in line 118 at "self"
+Error in class definition, skipping. in line 118 (unexpected EOF)
+syntax error in line 119 at "}"
+Error in class definition, skipping. in line 120 (unexpected EOF)
+syntax error in line 123 at "beta"
+Error in class definition, skipping. in line 125 (unexpected EOF)
+syntax error in line 126 at "abort"
+Error in class definition, skipping. in line 126 (unexpected EOF)
+syntax error in line 127 at "self"
+Error in class definition, skipping. in line 127 (unexpected EOF)
+syntax error in line 128 at "}"
+Error in class definition, skipping. in line 129 (unexpected EOF)
+syntax error in line 132 at "substitute"
+Error in class definition, skipping. in line 134 (unexpected EOF)
+syntax error in line 135 at "abort"
+Error in class definition, skipping. in line 135 (unexpected EOF)
+syntax error in line 136 at "self"
+Error in class definition, skipping. in line 136 (unexpected EOF)
+syntax error in line 137 at "}"
+Error in class definition, skipping. in line 138 (unexpected EOF)
+syntax error in line 141 at "gen_code"
+Error in class definition, skipping. in line 143 (unexpected EOF)
+syntax error in line 144 at "abort"
+Error in class definition, skipping. in line 144 (unexpected EOF)
+syntax error in line 145 at "self"
+Error in class definition, skipping. in line 145 (unexpected EOF)
+syntax error in line 146 at "}"
+Error in class definition, skipping. in line 147 (unexpected EOF)
+syntax error in line 148 at "}"
+Error in class definition, skipping. in line 148 (unexpected EOF)
+syntax error in line 154 at ";"
+Error in class definition, skipping. in line 154 (unexpected EOF)
+syntax error in line 156 at "init"
+Error in class definition, skipping. in line 158 (unexpected EOF)
+syntax error in line 159 at "self"
+Error in class definition, skipping. in line 159 (unexpected EOF)
+syntax error in line 160 at "}"
+Error in class definition, skipping. in line 161 (unexpected EOF)
+syntax error in line 163 at "print_self"
+Error in class definition, skipping. in line 165 (unexpected EOF)
+syntax error in line 167 at "beta"
+Error in class definition, skipping. in line 167 (unexpected EOF)
+syntax error in line 169 at "substitute"
+Error in class definition, skipping. in line 171 (unexpected EOF)
+syntax error in line 173 at "gen_code"
+Error in class definition, skipping. in line 180 (unexpected EOF)
+syntax error in line 181 at "cur_env"
+Error in class definition, skipping. in line 181 (unexpected EOF)
+syntax error in line 182 at "}"
+Error in class definition, skipping. in line 183 (unexpected EOF)
+syntax error in line 184 at "if"
+Error in class definition, skipping. in line 185 (unexpected EOF)
+syntax error in line 186 at "print_self"
+Error in class definition, skipping. in line 186 (unexpected EOF)
+syntax error in line 187 at "out_string"
+Error in class definition, skipping. in line 187 (unexpected EOF)
+syntax error in line 188 at "abort"
+Error in class definition, skipping. in line 188 (unexpected EOF)
+syntax error in line 189 at "self"
+Error in class definition, skipping. in line 189 (unexpected EOF)
+syntax error in line 190 at "}"
+Error in class definition, skipping. in line 193 (unexpected EOF)
+syntax error in line 194 at "}"
+Error in class definition, skipping. in line 195 (unexpected EOF)
+syntax error in line 196 at "}"
+Error in class definition, skipping. in line 196 (unexpected EOF)
+syntax error in line 202 at ";"
+Error in class definition, skipping. in line 202 (unexpected EOF)
+syntax error in line 203 at "body"
+Error in class definition, skipping. in line 203 (unexpected EOF)
+syntax error in line 205 at "init"
+Error in class definition, skipping. in line 207 (unexpected EOF)
+syntax error in line 208 at "body"
+Error in class definition, skipping. in line 208 (unexpected EOF)
+syntax error in line 209 at "self"
+Error in class definition, skipping. in line 209 (unexpected EOF)
+syntax error in line 210 at "}"
+Error in class definition, skipping. in line 211 (unexpected EOF)
+syntax error in line 213 at "print_self"
+Error in class definition, skipping. in line 215 (unexpected EOF)
+syntax error in line 216 at "arg"
+Error in class definition, skipping. in line 216 (unexpected EOF)
+syntax error in line 217 at "out_string"
+Error in class definition, skipping. in line 217 (unexpected EOF)
+syntax error in line 218 at "body"
+Error in class definition, skipping. in line 218 (unexpected EOF)
+syntax error in line 219 at "self"
+Error in class definition, skipping. in line 219 (unexpected EOF)
+syntax error in line 220 at "}"
+Error in class definition, skipping. in line 221 (unexpected EOF)
+syntax error in line 223 at "beta"
+Error in class definition, skipping. in line 223 (unexpected EOF)
+syntax error in line 225 at "apply"
+Error in class definition, skipping. in line 227 (unexpected EOF)
+syntax error in line 230 at "substitute"
+Error in class definition, skipping. in line 238 (unexpected EOF)
+syntax error in line 240 at "gen_code"
+Error in class definition, skipping. in line 242 (unexpected EOF)
+syntax error in line 243 at "out_int"
+Error in class definition, skipping. in line 243 (unexpected EOF)
+syntax error in line 244 at "out_string"
+Error in class definition, skipping. in line 244 (unexpected EOF)
+syntax error in line 245 at "if"
+Error in class definition, skipping. in line 248 (unexpected EOF)
+syntax error in line 249 at "self"
+Error in class definition, skipping. in line 249 (unexpected EOF)
+syntax error in line 250 at "}"
+Error in class definition, skipping. in line 251 (unexpected EOF)
+syntax error in line 253 at "gen_closure_code"
+Error in class definition, skipping. in line 256 (unexpected EOF)
+syntax error in line 257 at "out_int"
+Error in class definition, skipping. in line 257 (unexpected EOF)
+syntax error in line 258 at "out_string"
+Error in class definition, skipping. in line 258 (unexpected EOF)
+syntax error in line 259 at "out_string"
+Error in class definition, skipping. in line 259 (unexpected EOF)
+syntax error in line 260 at "out_string"
+Error in class definition, skipping. in line 260 (unexpected EOF)
+syntax error in line 261 at "out_int"
+Error in class definition, skipping. in line 261 (unexpected EOF)
+syntax error in line 262 at "out_string"
+Error in class definition, skipping. in line 262 (unexpected EOF)
+syntax error in line 263 at "out_string"
+Error in class definition, skipping. in line 263 (unexpected EOF)
+syntax error in line 264 at "body"
+Error in class definition, skipping. in line 264 (unexpected EOF)
+syntax error in line 265 at "out_string"
+Error in class definition, skipping. in line 265 (unexpected EOF)
+syntax error in line 266 at "out_string"
+Error in class definition, skipping. in line 266 (unexpected EOF)
+syntax error in line 267 at "}"
+Error in class definition, skipping. in line 268 (unexpected EOF)
+syntax error in line 269 at "}"
+Error in class definition, skipping. in line 269 (unexpected EOF)
+syntax error in line 275 at ";"
+Error in class definition, skipping. in line 275 (unexpected EOF)
+syntax error in line 276 at "arg"
+Error in class definition, skipping. in line 276 (unexpected EOF)
+syntax error in line 278 at "init"
+Error in class definition, skipping. in line 280 (unexpected EOF)
+syntax error in line 281 at "arg"
+Error in class definition, skipping. in line 281 (unexpected EOF)
+syntax error in line 282 at "self"
+Error in class definition, skipping. in line 282 (unexpected EOF)
+syntax error in line 283 at "}"
+Error in class definition, skipping. in line 284 (unexpected EOF)
+syntax error in line 286 at "print_self"
+Error in class definition, skipping. in line 288 (unexpected EOF)
+syntax error in line 289 at "fun"
+Error in class definition, skipping. in line 289 (unexpected EOF)
+syntax error in line 290 at "out_string"
+Error in class definition, skipping. in line 290 (unexpected EOF)
+syntax error in line 291 at "arg"
+Error in class definition, skipping. in line 291 (unexpected EOF)
+syntax error in line 292 at "out_string"
+Error in class definition, skipping. in line 292 (unexpected EOF)
+syntax error in line 293 at "self"
+Error in class definition, skipping. in line 293 (unexpected EOF)
+syntax error in line 294 at "}"
+Error in class definition, skipping. in line 295 (unexpected EOF)
+syntax error in line 297 at "beta"
+Error in class definition, skipping. in line 299 (unexpected EOF)
+syntax error in line 300 at "e"
+Error in class definition, skipping. in line 303 (unexpected EOF)
+syntax error in line 304 at "esac"
+Error in class definition, skipping. in line 305 (unexpected EOF)
+syntax error in line 307 at "substitute"
+Error in class definition, skipping. in line 312 (unexpected EOF)
+syntax error in line 314 at "gen_code"
+Error in class definition, skipping. in line 316 (unexpected EOF)
+syntax error in line 317 at "fun"
+Error in class definition, skipping. in line 317 (unexpected EOF)
+syntax error in line 318 at "out_string"
+Error in class definition, skipping. in line 318 (unexpected EOF)
+syntax error in line 319 at "out_string"
+Error in class definition, skipping. in line 319 (unexpected EOF)
+syntax error in line 320 at "arg"
+Error in class definition, skipping. in line 320 (unexpected EOF)
+syntax error in line 321 at "out_string"
+Error in class definition, skipping. in line 321 (unexpected EOF)
+syntax error in line 322 at "out_string"
+Error in class definition, skipping. in line 322 (unexpected EOF)
+syntax error in line 323 at "out_string"
+Error in class definition, skipping. in line 323 (unexpected EOF)
+syntax error in line 324 at "out_string"
+Error in class definition, skipping. in line 324 (unexpected EOF)
+syntax error in line 325 at "out_string"
+Error in class definition, skipping. in line 325 (unexpected EOF)
+syntax error in line 326 at "}"
+Error in class definition, skipping. in line 327 (unexpected EOF)
+syntax error in line 328 at "}"
+Error in class definition, skipping. in line 328 (unexpected EOF)
+syntax error in line 341 at "."
+Error in class definition, skipping. in line 342 (unexpected EOF)
+syntax error in line 344 at "lam"
+Error in class definition, skipping. in line 347 (unexpected EOF)
+syntax error in line 349 at "app"
+Error in class definition, skipping. in line 352 (unexpected EOF)
+syntax error in line 357 at "i"
+Error in class definition, skipping. in line 360 (unexpected EOF)
+syntax error in line 362 at "k"
+Error in class definition, skipping. in line 366 (unexpected EOF)
+syntax error in line 368 at "s"
+Error in class definition, skipping. in line 373 (unexpected EOF)
+syntax error in line 375 at "}"
+Error in class definition, skipping. in line 375 (unexpected EOF)
+syntax error in line 387 at "("
+Error in class definition, skipping. in line 387 (unexpected EOF)
+syntax error in line 388 at "e"
+Error in class definition, skipping. in line 388 (unexpected EOF)
+syntax error in line 389 at "let"
+Error in class definition, skipping. in line 394 (unexpected EOF)
+syntax error in line 395 at "if"
+Error in class definition, skipping. in line 399 (unexpected EOF)
+syntax error in line 400 at "out_string"
+Error in class definition, skipping. in line 400 (unexpected EOF)
+syntax error in line 401 at "e"
+Error in class definition, skipping. in line 401 (unexpected EOF)
+syntax error in line 402 at "}"
+Error in class definition, skipping. in line 403 (unexpected EOF)
+syntax error in line 404 at "}"
+Error in class definition, skipping. in line 405 (unexpected EOF)
+syntax error in line 406 at "out_string"
+Error in class definition, skipping. in line 406 (unexpected EOF)
+syntax error in line 407 at "e"
+Error in class definition, skipping. in line 407 (unexpected EOF)
+syntax error in line 408 at "}"
+Error in class definition, skipping. in line 408 (unexpected EOF)
+syntax error in line 409 at "}"
+Error in class definition, skipping. in line 410 (unexpected EOF)
+syntax error in line 412 at "eval_class"
+Error in class definition, skipping. in line 414 (unexpected EOF)
+syntax error in line 415 at "out_string"
+Error in class definition, skipping. in line 415 (unexpected EOF)
+syntax error in line 416 at "out_string"
+Error in class definition, skipping. in line 416 (unexpected EOF)
+syntax error in line 417 at "}"
+Error in class definition, skipping. in line 418 (unexpected EOF)
+syntax error in line 420 at "closure_class"
+Error in class definition, skipping. in line 422 (unexpected EOF)
+syntax error in line 423 at "out_string"
+Error in class definition, skipping. in line 423 (unexpected EOF)
+syntax error in line 424 at "out_string"
+Error in class definition, skipping. in line 424 (unexpected EOF)
+syntax error in line 425 at "out_string"
+Error in class definition, skipping. in line 425 (unexpected EOF)
+syntax error in line 426 at "out_string"
+Error in class definition, skipping. in line 426 (unexpected EOF)
+syntax error in line 427 at "out_string"
+Error in class definition, skipping. in line 427 (unexpected EOF)
+syntax error in line 428 at "out_string"
+Error in class definition, skipping. in line 428 (unexpected EOF)
+syntax error in line 429 at "out_string"
+Error in class definition, skipping. in line 429 (unexpected EOF)
+syntax error in line 430 at "}"
+Error in class definition, skipping. in line 431 (unexpected EOF)
+syntax error in line 433 at "gen_code"
+Error in class definition, skipping. in line 436 (unexpected EOF)
+syntax error in line 437 at "e"
+Error in class definition, skipping. in line 437 (unexpected EOF)
+syntax error in line 438 at "out_string"
+Error in class definition, skipping. in line 438 (unexpected EOF)
+syntax error in line 439 at "out_string"
+Error in class definition, skipping. in line 439 (unexpected EOF)
+syntax error in line 440 at "eval_class"
+Error in class definition, skipping. in line 440 (unexpected EOF)
+syntax error in line 441 at "closure_class"
+Error in class definition, skipping. in line 441 (unexpected EOF)
+syntax error in line 442 at "out_string"
+Error in class definition, skipping. in line 442 (unexpected EOF)
+syntax error in line 443 at "out_string"
+Error in class definition, skipping. in line 443 (unexpected EOF)
+syntax error in line 444 at "e"
+Error in class definition, skipping. in line 444 (unexpected EOF)
+syntax error in line 445 at "out_string"
+Error in class definition, skipping. in line 445 (unexpected EOF)
+syntax error in line 446 at "while"
+Error in class definition, skipping. in line 451 (unexpected EOF)
+syntax error in line 452 at "c"
+Error in class definition, skipping. in line 452 (unexpected EOF)
+syntax error in line 453 at "}"
+Error in class definition, skipping. in line 454 (unexpected EOF)
+syntax error in line 455 at "out_string"
+Error in class definition, skipping. in line 455 (unexpected EOF)
+syntax error in line 456 at "}"
+Error in class definition, skipping. in line 457 (unexpected EOF)
+syntax error in line 459 at "main"
+Error in class definition, skipping. in line 461 (unexpected EOF)
+syntax error in line 462 at "out_string"
+Error in class definition, skipping. in line 462 (unexpected EOF)
+syntax error in line 463 at "k"
+Error in class definition, skipping. in line 463 (unexpected EOF)
+syntax error in line 464 at "out_string"
+Error in class definition, skipping. in line 464 (unexpected EOF)
+syntax error in line 465 at "s"
+Error in class definition, skipping. in line 465 (unexpected EOF)
+syntax error in line 466 at "out_string"
+Error in class definition, skipping. in line 466 (unexpected EOF)
+syntax error in line 467 at "beta_reduce"
+Error in class definition, skipping. in line 467 (unexpected EOF)
+syntax error in line 468 at "beta_reduce"
+Error in class definition, skipping. in line 468 (unexpected EOF)
+syntax error in line 469 at "gen_code"
+Error in class definition, skipping. in line 469 (unexpected EOF)
+syntax error in line 470 at "gen_code"
+Error in class definition, skipping. in line 470 (unexpected EOF)
+syntax error in line 471 at "gen_code"
+Error in class definition, skipping. in line 472 (unexpected EOF)
+syntax error in line 473 at "gen_code"
+Error in class definition, skipping. in line 473 (unexpected EOF)
+syntax error in line 474 at "0"
+Error in class definition, skipping. in line 474 (unexpected EOF)
+syntax error in line 475 at "}"
+Error in class definition, skipping. in line 476 (unexpected EOF)
+syntax error in line 477 at "}"
+Error in class definition, skipping. in line 477 (unexpected EOF)
+468 error(s) found

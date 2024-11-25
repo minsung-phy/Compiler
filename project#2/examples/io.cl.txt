@@ -1,0 +1,33 @@
+syntax error in line 53 at ";"
+Error in class definition, skipping. in line 53 (unexpected EOF)
+syntax error in line 55 at "out_a"
+Error in class definition, skipping. in line 55 (unexpected EOF)
+syntax error in line 57 at "}"
+Error in class definition, skipping. in line 57 (unexpected EOF)
+syntax error in line 64 at "."
+Error in class definition, skipping. in line 64 (unexpected EOF)
+syntax error in line 66 at "}"
+Error in class definition, skipping. in line 66 (unexpected EOF)
+syntax error in line 73 at "("
+Error in class definition, skipping. in line 73 (unexpected EOF)
+syntax error in line 77 at "}"
+Error in class definition, skipping. in line 77 (unexpected EOF)
+syntax error in line 84 at "("
+Error in class definition, skipping. in line 84 (unexpected EOF)
+syntax error in line 86 at "}"
+Error in class definition, skipping. in line 86 (unexpected EOF)
+syntax error in line 95 at "."
+Error in class definition, skipping. in line 95 (unexpected EOF)
+syntax error in line 96 at "("
+Error in class definition, skipping. in line 96 (unexpected EOF)
+syntax error in line 97 at "("
+Error in class definition, skipping. in line 97 (unexpected EOF)
+syntax error in line 98 at "("
+Error in class definition, skipping. in line 98 (unexpected EOF)
+syntax error in line 99 at "out_string"
+Error in class definition, skipping. in line 99 (unexpected EOF)
+syntax error in line 100 at "}"
+Error in class definition, skipping. in line 101 (unexpected EOF)
+syntax error in line 103 at "}"
+Error in class definition, skipping. in line 103 (unexpected EOF)
+32 error(s) found

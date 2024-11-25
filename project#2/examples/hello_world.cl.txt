@@ -1,0 +1,5 @@
+syntax error in line 3 at "("
+Error in class definition, skipping. in line 4 (unexpected EOF)
+syntax error in line 5 at "}"
+Error in class definition, skipping. in line 5 (unexpected EOF)
+4 error(s) found

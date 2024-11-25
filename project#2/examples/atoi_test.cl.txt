@@ -1,0 +1,21 @@
+syntax error in line 11 at "("
+Error in class definition, skipping. in line 12 (unexpected EOF)
+syntax error in line 14 at "prompt"
+Error in class definition, skipping. in line 16 (unexpected EOF)
+syntax error in line 17 at "in_string"
+Error in class definition, skipping. in line 17 (unexpected EOF)
+syntax error in line 18 at "}"
+Error in class definition, skipping. in line 19 (unexpected EOF)
+syntax error in line 21 at "main"
+Error in class definition, skipping. in line 34 (unexpected EOF)
+syntax error in line 35 at "newline"
+Error in class definition, skipping. in line 35 (unexpected EOF)
+syntax error in line 36 at "out_string"
+Error in class definition, skipping. in line 36 (unexpected EOF)
+syntax error in line 37 at "newline"
+Error in class definition, skipping. in line 37 (unexpected EOF)
+syntax error in line 38 at "}"
+Error in class definition, skipping. in line 45 (unexpected EOF)
+syntax error in line 46 at "}"
+Error in class definition, skipping. in line 46 (unexpected EOF)
+20 error(s) found

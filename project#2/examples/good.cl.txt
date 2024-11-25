@@ -1,0 +1,41 @@
+syntax error in line 3 at "."
+Error in class definition, skipping. in line 9 (unexpected EOF)
+syntax error in line 10 at "}"
+Error in class definition, skipping. in line 10 (unexpected EOF)
+syntax error in line 13 at ";"
+Error in class definition, skipping. in line 13 (unexpected EOF)
+syntax error in line 14 at "y"
+Error in class definition, skipping. in line 14 (unexpected EOF)
+syntax error in line 16 at "init"
+Error in class definition, skipping. in line 18 (unexpected EOF)
+syntax error in line 19 at "y"
+Error in class definition, skipping. in line 19 (unexpected EOF)
+syntax error in line 20 at "self"
+Error in class definition, skipping. in line 20 (unexpected EOF)
+syntax error in line 21 at "}"
+Error in class definition, skipping. in line 22 (unexpected EOF)
+syntax error in line 24 at "print"
+Error in class definition, skipping. in line 29 (unexpected EOF)
+syntax error in line 31 at "reflect_0"
+Error in class definition, skipping. in line 33 (unexpected EOF)
+syntax error in line 34 at "y"
+Error in class definition, skipping. in line 34 (unexpected EOF)
+syntax error in line 35 at "self"
+Error in class definition, skipping. in line 35 (unexpected EOF)
+syntax error in line 36 at "}"
+Error in class definition, skipping. in line 37 (unexpected EOF)
+syntax error in line 39 at "reflect_X"
+Error in class definition, skipping. in line 41 (unexpected EOF)
+syntax error in line 42 at "self"
+Error in class definition, skipping. in line 42 (unexpected EOF)
+syntax error in line 43 at "}"
+Error in class definition, skipping. in line 44 (unexpected EOF)
+syntax error in line 46 at "reflect_Y"
+Error in class definition, skipping. in line 48 (unexpected EOF)
+syntax error in line 49 at "self"
+Error in class definition, skipping. in line 49 (unexpected EOF)
+syntax error in line 50 at "}"
+Error in class definition, skipping. in line 51 (unexpected EOF)
+syntax error in line 52 at "}"
+Error in class definition, skipping. in line 52 (unexpected EOF)
+40 error(s) found

@@ -1,0 +1,105 @@
+syntax error in line 28 at "("
+Error in class definition, skipping. in line 28 (unexpected EOF)
+syntax error in line 28 at "true"
+Error in class definition, skipping. in line 28 (unexpected EOF)
+syntax error in line 28 at "}"
+Error in class definition, skipping. in line 28 (unexpected EOF)
+syntax error in line 30 at "cons"
+Error in class definition, skipping. in line 34 (unexpected EOF)
+syntax error in line 41 at "car"
+Error in class definition, skipping. in line 41 (unexpected EOF)
+syntax error in line 41 at "new"
+Error in class definition, skipping. in line 41 (unexpected EOF)
+syntax error in line 41 at "}"
+Error in class definition, skipping. in line 41 (unexpected EOF)
+syntax error in line 43 at "cdr"
+Error in class definition, skipping. in line 43 (unexpected EOF)
+syntax error in line 43 at "new"
+Error in class definition, skipping. in line 43 (unexpected EOF)
+syntax error in line 43 at "}"
+Error in class definition, skipping. in line 43 (unexpected EOF)
+syntax error in line 45 at "rev"
+Error in class definition, skipping. in line 45 (unexpected EOF)
+syntax error in line 47 at "sort"
+Error in class definition, skipping. in line 47 (unexpected EOF)
+syntax error in line 49 at "insert"
+Error in class definition, skipping. in line 49 (unexpected EOF)
+syntax error in line 51 at "rcons"
+Error in class definition, skipping. in line 51 (unexpected EOF)
+syntax error in line 53 at "print_list"
+Error in class definition, skipping. in line 53 (unexpected EOF)
+syntax error in line 54 at "}"
+Error in class definition, skipping. in line 54 (unexpected EOF)
+syntax error in line 57 at ";"
+Error in class definition, skipping. in line 57 (unexpected EOF)
+syntax error in line 58 at "xcdr"
+Error in class definition, skipping. in line 58 (unexpected EOF)
+syntax error in line 62 at "isNil"
+Error in class definition, skipping. in line 62 (unexpected EOF)
+syntax error in line 64 at "init"
+Error in class definition, skipping. in line 66 (unexpected EOF)
+syntax error in line 67 at "xcdr"
+Error in class definition, skipping. in line 67 (unexpected EOF)
+syntax error in line 68 at "self"
+Error in class definition, skipping. in line 68 (unexpected EOF)
+syntax error in line 69 at "}"
+Error in class definition, skipping. in line 70 (unexpected EOF)
+syntax error in line 72 at "car"
+Error in class definition, skipping. in line 72 (unexpected EOF)
+syntax error in line 74 at "cdr"
+Error in class definition, skipping. in line 74 (unexpected EOF)
+syntax error in line 76 at "rev"
+Error in class definition, skipping. in line 76 (unexpected EOF)
+syntax error in line 78 at "sort"
+Error in class definition, skipping. in line 78 (unexpected EOF)
+syntax error in line 80 at "insert"
+Error in class definition, skipping. in line 86 (unexpected EOF)
+syntax error in line 89 at "rcons"
+Error in class definition, skipping. in line 89 (unexpected EOF)
+syntax error in line 91 at "print_list"
+Error in class definition, skipping. in line 93 (unexpected EOF)
+syntax error in line 94 at "out_string"
+Error in class definition, skipping. in line 94 (unexpected EOF)
+syntax error in line 95 at "xcdr"
+Error in class definition, skipping. in line 95 (unexpected EOF)
+syntax error in line 96 at "}"
+Error in class definition, skipping. in line 97 (unexpected EOF)
+syntax error in line 98 at "}"
+Error in class definition, skipping. in line 98 (unexpected EOF)
+syntax error in line 101 at ";"
+Error in class definition, skipping. in line 101 (unexpected EOF)
+syntax error in line 103 at "rev"
+Error in class definition, skipping. in line 103 (unexpected EOF)
+syntax error in line 105 at "sort"
+Error in class definition, skipping. in line 105 (unexpected EOF)
+syntax error in line 107 at "insert"
+Error in class definition, skipping. in line 107 (unexpected EOF)
+syntax error in line 109 at "rcons"
+Error in class definition, skipping. in line 109 (unexpected EOF)
+syntax error in line 111 at "print_list"
+Error in class definition, skipping. in line 111 (unexpected EOF)
+syntax error in line 113 at "}"
+Error in class definition, skipping. in line 113 (unexpected EOF)
+syntax error in line 118 at ";"
+Error in class definition, skipping. in line 118 (unexpected EOF)
+syntax error in line 121 at "iota"
+Error in class definition, skipping. in line 123 (unexpected EOF)
+syntax error in line 124 at "("
+Error in class definition, skipping. in line 128 (unexpected EOF)
+syntax error in line 129 at "j"
+Error in class definition, skipping. in line 129 (unexpected EOF)
+syntax error in line 130 at "}"
+Error in class definition, skipping. in line 132 (unexpected EOF)
+syntax error in line 133 at "l"
+Error in class definition, skipping. in line 133 (unexpected EOF)
+syntax error in line 134 at "}"
+Error in class definition, skipping. in line 135 (unexpected EOF)
+syntax error in line 137 at "main"
+Error in class definition, skipping. in line 139 (unexpected EOF)
+syntax error in line 140 at "iota"
+Error in class definition, skipping. in line 140 (unexpected EOF)
+syntax error in line 141 at "}"
+Error in class definition, skipping. in line 142 (unexpected EOF)
+syntax error in line 143 at "}"
+Error in class definition, skipping. in line 143 (unexpected EOF)
+104 error(s) found

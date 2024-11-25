@@ -1,0 +1,59 @@
+syntax error in line 6 at ";"
+Error in class definition, skipping. in line 6 (unexpected EOF)
+syntax error in line 8 at "init"
+Error in class definition, skipping. in line 10 (unexpected EOF)
+syntax error in line 11 at "self"
+Error in class definition, skipping. in line 11 (unexpected EOF)
+syntax error in line 12 at "}"
+Error in class definition, skipping. in line 13 (unexpected EOF)
+syntax error in line 15 at "print"
+Error in class definition, skipping. in line 17 (unexpected EOF)
+syntax error in line 18 at "self"
+Error in class definition, skipping. in line 18 (unexpected EOF)
+syntax error in line 19 at "}"
+Error in class definition, skipping. in line 20 (unexpected EOF)
+syntax error in line 22 at "num_cells"
+Error in class definition, skipping. in line 24 (unexpected EOF)
+syntax error in line 26 at "cell"
+Error in class definition, skipping. in line 28 (unexpected EOF)
+syntax error in line 30 at "cell_left_neighbor"
+Error in class definition, skipping. in line 36 (unexpected EOF)
+syntax error in line 38 at "cell_right_neighbor"
+Error in class definition, skipping. in line 44 (unexpected EOF)
+syntax error in line 48 at "cell_at_next_evolution"
+Error in class definition, skipping. in line 58 (unexpected EOF)
+syntax error in line 60 at "evolve"
+Error in class definition, skipping. in line 67 (unexpected EOF)
+syntax error in line 68 at "position"
+Error in class definition, skipping. in line 68 (unexpected EOF)
+syntax error in line 69 at "}"
+Error in class definition, skipping. in line 70 (unexpected EOF)
+syntax error in line 71 at "population_map"
+Error in class definition, skipping. in line 71 (unexpected EOF)
+syntax error in line 72 at "self"
+Error in class definition, skipping. in line 72 (unexpected EOF)
+syntax error in line 73 at "}"
+Error in class definition, skipping. in line 75 (unexpected EOF)
+syntax error in line 76 at "}"
+Error in class definition, skipping. in line 76 (unexpected EOF)
+syntax error in line 79 at ";"
+Error in class definition, skipping. in line 79 (unexpected EOF)
+syntax error in line 81 at "main"
+Error in class definition, skipping. in line 83 (unexpected EOF)
+syntax error in line 84 at "cells"
+Error in class definition, skipping. in line 84 (unexpected EOF)
+syntax error in line 85 at "("
+Error in class definition, skipping. in line 88 (unexpected EOF)
+syntax error in line 89 at "cells"
+Error in class definition, skipping. in line 89 (unexpected EOF)
+syntax error in line 90 at "countdown"
+Error in class definition, skipping. in line 90 (unexpected EOF)
+syntax error in line 91 at "}"
+Error in class definition, skipping. in line 93 (unexpected EOF)
+syntax error in line 94 at "self"
+Error in class definition, skipping. in line 94 (unexpected EOF)
+syntax error in line 95 at "}"
+Error in class definition, skipping. in line 96 (unexpected EOF)
+syntax error in line 97 at "}"
+Error in class definition, skipping. in line 97 (unexpected EOF)
+58 error(s) found
